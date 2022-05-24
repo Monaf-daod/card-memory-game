@@ -1,0 +1,80 @@
+[
+    {
+        "id":1,
+        "src":"Images/1.jpg",
+        "clicked": false
+    },
+    {
+        "id":2,
+        "src":"Images/2.jpg",
+        "clicked": false
+    }, {
+        "id":3,
+        "src" :"Images/3.jpg",
+        "clicked" : false
+    },
+    {
+        "id":4,
+        "src" :"Images/4.jpg",
+        "clicked" : false
+    },
+    {
+        "id":5,
+        "src" :"Images/5.jpg",
+        "clicked" : false
+    },
+    {
+        "id":6,
+        "src" :"Images/6.jpg",
+        "clicked" : false
+    },
+    {
+        "id":7,
+        "src" :"Images/7.jpg",
+        "clicked" : false
+    },
+    {
+        "id":8,
+        "src" :"Images/8.jpg",
+        "clicked" : false
+    },
+    {
+        "id":9,
+        "src":"Images/1.jpg",
+        "clicked": false
+    },
+    {
+        "id":10,
+        "src":"Images/2.jpg",
+        "clicked": false
+    }, {
+        "id":11,
+        "src" :"Images/3.jpg",
+        "clicked" : false
+    },
+    {
+        "id":12,
+        "src" :"Images/4.jpg",
+        "clicked" : false
+    },
+    {
+        "id":13,
+        "src" :"Images/5.jpg",
+        "clicked" : false
+    },
+    {
+        "id":14,
+        "src" :"Images/6.jpg",
+        "clicked" : false
+    },
+    {
+        "id":15,
+        "src" :"Images/7.jpg",
+        "clicked" : false
+    },
+    {
+        "id":16,
+        "src" :"Images/8.jpg",
+        "clicked" : false
+    }
+]
