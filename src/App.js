@@ -1,15 +1,11 @@
-import './App.css';
-import Panel from './Components/Panel'
-import 'bootstrap/dist/css/bootstrap.css';
+import Panel from "./Components/Panel";
 
 function App() {
   return (
-    <div className="container h-100 border border-primary d-flex flex-column align-items-center">
-        <div className="w-50 d-flex flex-column my-2 mx-auto border border-primary">
-          <Panel />
-        </div>
+    <div className="main-container">
+      <h2 className="text-white text-capitalize">card memory game</h2>
+      <Panel />
     </div>
-     
   );
 }
 
